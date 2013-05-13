@@ -45,7 +45,7 @@ any version beginning with `1.2`.
 ## System Requirements
 
 Composer requires PHP 5.3.2+ to run. A few sensitive php settings and compile
-flags are also required, but the installer will warn you about any
+flags (specially activate php_openssl extension) are also required, but the installer will warn you about any
 incompatibilities.
 
 To install packages from sources instead of simple zip archives, you will need
